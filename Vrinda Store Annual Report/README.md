@@ -28,6 +28,7 @@ customer demographics, and order fulfillment trends.
     Flipkart, and Myntra — the top-performing channels.
 
 6. Screenshots / Demos
-   Example : ![Dashboard Preview].(https://github.com/purushottambende/Excel-Project/blob/main/Vrinda%20Store%20Annual%20Report/Dashboard%20Scerrnshot.png).
+   show what the dashboard looks like - ![Alt Text].(https://github.com/purushottambende/Excel-Project/blob/main/Vrinda%20Store%20Annual%20Report/Dashboard%20Scerrnshot.png)
+   Example:![Dashboard Preview]. (https://github.com/purushottambende/Excel-Project/blob/main/Vrinda%20Store%20Annual%20Report/Dashboard%20Scerrnshot.png).
 
 
